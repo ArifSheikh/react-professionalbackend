@@ -1,0 +1,24 @@
+{
+  "name": "reactadvanced",
+  "version": "1.0.0",
+  "description": "This is a simple CRM system back-end for customer services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArifSheikh/react-professionalbackend.git"
+  },
+  "keywords": [
+    "customer",
+    "react",
+    "backend"
+  ],
+  "author": "Arif Sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArifSheikh/react-professionalbackend/issues"
+  },
+  "homepage": "https://github.com/ArifSheikh/react-professionalbackend#readme"
+}
